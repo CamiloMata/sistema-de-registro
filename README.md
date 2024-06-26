@@ -1,3 +1,3 @@
-<h1> sistema d eregistro </h1>
+<h1> sistema de registro </h1>
 
 - estado de proyecto en construccion
